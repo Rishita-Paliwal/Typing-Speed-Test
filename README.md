@@ -16,6 +16,8 @@ A clean and interactive typing speed test app built using HTML, CSS, and JavaScr
 3. Get instant feedback on your typing speed and accuracy.
 4. Try again to beat your high score!
 
+![Live Demo](https://rishita-paliwal.github.io/Typing-Speed-Test/)   
+
 ## 🛠 Tech Stack
 
 - HTML5
@@ -25,6 +27,7 @@ A clean and interactive typing speed test app built using HTML, CSS, and JavaScr
 ## 📷 Preview
 
 ![Typing Speed Test Screenshot](preview.png)
+
 
 
 ## 📁 Local Setup
